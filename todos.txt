@@ -2,5 +2,4 @@ Make lunch
 Clean the code
 Develop App
 Master Python!
-Take showerFinish List
-Order Pizza
+Eat LunchClean dishes
