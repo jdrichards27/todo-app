@@ -1,3 +1,4 @@
 Make soup
 Clean the code
 Develop App
+Master Python!
